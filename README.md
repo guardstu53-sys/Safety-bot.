@@ -26,4 +26,9 @@ Commands:
 ✕ Mute - /Mute {User*} {duration} {reason*} - Moderators can mute a user, and can select a duration. (If no duration is set, it will be automatically depending on the reason.)
 ✕ Warn - /Warn {User*} {Reason*}
 
+-- Admin only -- Select role, Also has mod perms. 
+✕ Unverify - /unverify {User*} {Reason} - Unverifies the selected user. Has to re-verify to gain access.
+✕ Ban - /Ban {User*} {Duration*} {Reason*} - Bans a user from the server, Duration is set for how long.
+✕ 
+
 adding more soon!
